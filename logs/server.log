@@ -1,0 +1,51 @@
+
+> vibe-generated-app@1.0.0 dev
+> vite
+
+
+  VITE v5.4.20  ready in 260 ms
+
+  ➜  Local:   http://localhost:3000/
+  ➜  Network: http://172.20.19.247:3000/
+7:54:55 PM [vite] warning: Duplicate key "pricing" in object literal
+105|        chat: "Conversación",
+106|      },
+107|      pricing: {
+   |      ^
+108|        title: "Planes y precios",
+109|        subtitle:
+
+  Plugin: vite:esbuild
+  File: /home/workspace/src/App.jsx
+7:54:55 PM [vite] warning: Duplicate key "pricing" in object literal
+186|      },
+187|      showcase: { preview: "Live preview", chat: "Conversation" },
+188|      pricing: {
+   |      ^
+189|        title: "Plans & pricing",
+190|        subtitle:
+
+  Plugin: vite:esbuild
+  File: /home/workspace/src/App.jsx
+7:54:56 PM [vite] ✨ new dependencies optimized: lucide-react, framer-motion
+7:54:56 PM [vite] ✨ optimized dependencies changed. reloading
+7:54:57 PM [vite] warning: Duplicate key "pricing" in object literal
+105|        chat: "Conversación",
+106|      },
+107|      pricing: {
+   |      ^
+108|        title: "Planes y precios",
+109|        subtitle:
+
+  Plugin: vite:esbuild
+  File: /home/workspace/src/App.jsx
+7:54:57 PM [vite] warning: Duplicate key "pricing" in object literal
+186|      },
+187|      showcase: { preview: "Live preview", chat: "Conversation" },
+188|      pricing: {
+   |      ^
+189|        title: "Plans & pricing",
+190|        subtitle:
+
+  Plugin: vite:esbuild
+  File: /home/workspace/src/App.jsx
